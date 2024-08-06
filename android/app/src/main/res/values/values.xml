@@ -1,0 +1,9 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">null</string>
+    <string name="firebase_database_url" translatable="false">null</string>
+    <string name="gcm_defaultSenderId" translatable="false">774400753580</string>
+    <string name="google_api_key" translatable="false">AIzaSyA0TAeYkUnH1CkNgjYAwGtYM7xUAxjpDIQ</string>
+    <string name="google_app_id" translatable="false">1:774400753580:android:48576662e4fae4d9cbc409</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA0TAeYkUnH1CkNgjYAwGtYM7xUAxjpDIQ</string>
+    <string name="project_id" translatable="false">instagram-tut-92d26</string>
+</resources>
